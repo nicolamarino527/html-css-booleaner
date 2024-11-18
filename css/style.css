@@ -24,6 +24,11 @@ p {
 .aqua {
     color: aqua;
 }
+.titolo {
+    font-size: 60px;
+    margin: 0px;
+
+}
 .p_small {
     font-size: 10px;
 }
