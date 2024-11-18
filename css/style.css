@@ -38,3 +38,18 @@ p {
 .table {
     width: 100%;
 }
+.table_width {
+    width: 25%;
+}
+.div_image {
+    position: relative;
+    
+
+}
+.p_image {
+    color: white;
+    position: absolute;
+    top: 1px;
+    font-size: 30px;
+   margin-top: 1px;
+}
