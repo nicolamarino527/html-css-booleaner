@@ -1,3 +1,40 @@
 /* regole generali */
+p {
+    font-size: 20px;
+}
 /* header */
-header { background-color: aqua;}
+
+.pattern_color {
+    background-color: rgb(99, 159, 248);
+    
+}
+.pattern {
+    height: 150px;
+    width: 280px;
+}
+.logo {
+    height: 50px;
+    position: absolute;
+    top: 100px;
+}
+/* main */
+.gray {
+    color: darkgray;
+}
+.aqua {
+    color: aqua;
+}
+.p_small {
+    font-size: 10px;
+}
+
+.table_title {
+    background-color: rgb(81, 169, 223
+    );
+}
+.table_elements {
+    background-color: rgb(188, 230, 241);
+}
+.table {
+    width: 100%;
+}
