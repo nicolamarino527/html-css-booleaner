@@ -10,7 +10,7 @@ p {
 }
 .pattern {
     height: 150px;
-    width: 280px;
+    width: 19%;
 }
 .logo {
     height: 50px;
@@ -57,4 +57,12 @@ p {
     top: 1px;
     font-size: 30px;
    margin-top: 1px;
+}
+#space {
+    margin:  40px;
+    width: 80%;
+}
+#space_top {
+    margin:  40px;
+    width: 80%;
 }
