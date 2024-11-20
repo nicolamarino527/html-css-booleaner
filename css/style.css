@@ -6,11 +6,11 @@ p {
 
 .pattern_color {
     background-color: rgb(99, 159, 248);
-    
+    background-image: url(./img/logo.svg;);
 }
 .pattern {
     height: 150px;
-    width: 19%;
+    width: 100%;
 }
 .logo {
     height: 50px;
